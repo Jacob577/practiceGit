@@ -22,8 +22,17 @@ git push --set-upstream origin addingMergeNotes
 ``
 
 #Remember to commit and push the branch
-'''
 git commit -m 'comment' [file_names_changed]
 git push --set-upstream origin [file_names]
-'''
-New fork added
+```
+## Pull requests
+
+fork w/ web ui
+
+```bash
+git checkout -b new-branch
+# make changes
+git add 'file'
+git commit -m 'Fix X'
+
+```
