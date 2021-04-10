@@ -26,3 +26,4 @@ git push --set-upstream origin addingMergeNotes
 git commit -m 'comment' [file_names_changed]
 git push --set-upstream origin [file_names]
 '''
+New fork added
