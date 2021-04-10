@@ -1,3 +1,7 @@
+#First of all, remember to do a proper:
+git pull
+#To make sure everything is up to date
+
 #To create a new branch:
 git checkout -b [new_branch_name]
 
