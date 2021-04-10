@@ -11,3 +11,6 @@ class Test1:
 
     def anotherFunction(self):
         print("Another function")
+
+    def bugg123(self):
+        print("This is a bug and needs to be fixed")
