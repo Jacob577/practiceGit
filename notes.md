@@ -19,4 +19,10 @@ git push --set-upstream origin [name_of_branch]
 git checkout -b 'name'
 # Do changes
 git push --set-upstream origin addingMergeNotes
-```
+``
+
+#Remember to commit and push the branch
+'''
+git commit -m 'comment' [file_names_changed]
+git push --set-upstream origin [file_names]
+'''
