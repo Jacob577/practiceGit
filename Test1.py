@@ -8,3 +8,6 @@ class Test1:
 
     def hello(self):
         print("Hello from Test1")
+
+    def anotherFunction(self):
+        print("Another function")
