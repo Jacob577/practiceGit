@@ -9,6 +9,6 @@ class Main:
 
 if __name__ == '__main__':
     Main(name="Jacob och Lucas").run()
-    
+
 
 
