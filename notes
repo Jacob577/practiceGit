@@ -10,3 +10,7 @@ git push origin [name_of_the_new_branch]
 
 #Remember when you are commiting in a new branch
 #to make sure you are acctually in the right branch.
+#
+#When pushing your branch to remote, use:
+git push --set-upstream origin [name_of_branch]
+
