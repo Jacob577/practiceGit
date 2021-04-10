@@ -1,0 +1,8 @@
+#To create a new branch:
+git checkout -b [new_branch_name]
+
+#Push the branch to github:
+git push origin [name_of_the_new_branch]
+
+#Remember when you are commiting in a new branch
+#to make sure you are acctually in the right branch.
