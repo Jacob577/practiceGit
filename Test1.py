@@ -12,5 +12,6 @@ class Test1:
     def anotherFunction(self):
         print("Another function")
 
-    def bugg123(self):
-        print("This is a bug and needs to be fixed")
+    def fix123(self):
+        print("This bug has now been resolved")
+        print('previous name of this method was bugg123')
